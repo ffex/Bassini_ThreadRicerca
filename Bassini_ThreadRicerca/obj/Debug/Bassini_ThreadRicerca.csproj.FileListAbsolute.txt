@@ -1,0 +1,7 @@
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\bin\Debug\Bassini_ThreadRicerca.exe.config
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\bin\Debug\Bassini_ThreadRicerca.exe
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\bin\Debug\Bassini_ThreadRicerca.pdb
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\obj\Debug\Bassini_ThreadRicerca.csprojAssemblyReference.cache
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\obj\Debug\Bassini_ThreadRicerca.csproj.CoreCompileInputs.cache
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\obj\Debug\Bassini_ThreadRicerca.exe
+C:\Users\basso\source\repos\Bassini_ThreadRicerca\Bassini_ThreadRicerca\obj\Debug\Bassini_ThreadRicerca.pdb
